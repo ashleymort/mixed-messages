@@ -4,7 +4,7 @@ let luck = ['You will be extra lucky today\!', 'You will be out of luck today\!'
     'You will be super unlucky today\!', 'Luck may not be on your side\!',
     'Good luck you are going to need it\!', 'Your luck might just be in\!',
     'Be lucky\!', 'You will not be lucky today\!',
-    'Your lucl will depend on the toss of a coin\!',
+    'Your luck will depend on the toss of a coin\!',
     'Hold your breath and you might be lucky\!', 'You will be super lucky today\!',
     'Lady Luck is on your side\!'];
 
